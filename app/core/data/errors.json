@@ -1,0 +1,32 @@
+[
+    {
+        "timestamp": "2026-05-21T07:53:49.775646",
+        "error_type": "ModelsNotFoundError",
+        "message": "Feching Pricing Warning: Models not found: ['deepseek/deepseek-v4-flash-20260423:free', 'model-test']",
+        "traceback": "NoneType: None\n"
+    },
+    {
+        "timestamp": "2026-05-21T07:59:51.301642",
+        "error_type": "ModelsNotFoundError",
+        "message": "Feching Pricing Warning: Models not found: ['model-test']",
+        "traceback": "NoneType: None\n"
+    },
+    {
+        "timestamp": "2026-05-21T08:00:31.789507",
+        "error_type": "ModelsNotFoundError",
+        "message": "Feching Pricing Warning: Models not found: ['model-test', 'deepseek/deepseek-v4-flash-20260423:free']",
+        "traceback": "NoneType: None\n"
+    },
+    {
+        "timestamp": "2026-05-21T08:05:01.223047",
+        "error_type": "ModelsNotFoundError",
+        "message": "Feching Pricing Warning: Models not found: ['model-test']",
+        "traceback": "NoneType: None\n"
+    },
+    {
+        "timestamp": "2026-05-21T08:52:22.681444",
+        "error_type": "ModelsNotFoundError",
+        "message": "Feching Pricing Warning: Models not found: ['model-test']",
+        "traceback": "NoneType: None\n"
+    }
+]

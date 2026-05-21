@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+celery
+redis
+httpx
+python-dotenv
+pydantic
+requests
